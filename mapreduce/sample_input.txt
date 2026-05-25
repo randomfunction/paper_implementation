@@ -1,0 +1,4 @@
+MapReduce is simple to learn.
+Map tasks emit key value pairs.
+Reduce tasks combine values with the same key.
+Map map reduce reduce reduce.
